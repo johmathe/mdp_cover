@@ -1,0 +1,13 @@
+This script retrieves the currently playing song and displays the corresponding cover on the current screen.
+
+There are a couple of dependencies.
+
+TODO:
+
+- Args
+  * Cache location
+  * Resolution
+  * Full screen
+- Comments
+- Auto adapt to the best resolution
+...
